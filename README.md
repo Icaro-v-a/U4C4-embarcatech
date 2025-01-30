@@ -1,4 +1,4 @@
-# Geração de Animações em Matriz de LEDs 5x5
+# Interrupções
 
 Este projeto tem como objetivos:
 
@@ -10,7 +10,7 @@ Este projeto tem como objetivos:
 
 ## Descrição do Projeto
 
-Neste projeto, você deverá utilizar os seguintes componentes conectados à placa BitDogLab:
+Neste projeto, devem ser utilizados os seguintes componentes conectados à placa BitDogLab:
 - **Matriz 5x5 de LEDs (endereçáveis) WS2812**, conectada à GPIO 7.
 - **LED RGB**, com os pinos conectados às GPIOs (11, 12 e 13).
 - **Botão A** conectado à GPIO 5.
@@ -50,4 +50,4 @@ entendimento.
 
 
 ## Link do Vídeo
-O vídeo de apresentação pode ser acessado [aqui](#).
+O vídeo de apresentação pode ser acessado aqui.
